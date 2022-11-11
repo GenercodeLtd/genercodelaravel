@@ -4,5 +4,11 @@
     "require": {
         "genercodeltd/genercodeorm": "^2.0",
         "genercodeltd/genercodecmd": "^2.0"
-    }
+    },
+    "autoload" : {
+        "psr-4" : {
+            "GenerCodeLvl\\" : "src/"
+        }
+    },
+    "license" : "Apache-2.0"
 }
