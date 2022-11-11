@@ -1,0 +1,8 @@
+{
+    "name" : "genercodeltd/genercodelaravel",
+    "description" : "Enables the gc api to run on laravel platform",
+    "require": {
+        "genercodeltd/genercodeorm": "^2.0",
+        "genercodeltd/genercodecmd": "^2.0"
+    }
+}
